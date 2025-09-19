@@ -4,8 +4,10 @@
 
 const size = 8;
 
-Array.from({ length: size }, (_, row) =>
-  Array.from({ length: size }, (_, col) => ((row + col) % 2 ? " " : "#")),
-)
-  .map((row) => row.join(""))
-  .forEach((row) => console.log(row));
+for (let row = 0; row < size; row++) {
+  let line = "";
+  for (let col = 0; col < size; col++) {
+    line += (row + col) % 2 ? " " : "#";
+  }
+  console.log(line);
+}
