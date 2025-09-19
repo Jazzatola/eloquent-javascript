@@ -14,12 +14,12 @@
 // (rather than counting only uppercase B characters). Rewrite countBs to make
 // use of this new function.
 
-const countChar = (w, m) => {
+const countChar = (str, char) => {
   let count = 0;
-  for (let i = 0; i < w.length; i++) {
-    if (w[i] === m) count += 1;
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === char) count += 1;
   }
   return count;
 };
 
-export const countBs = (w) => countChar(w, "B");
+export const countBs = (string) => countChar(string, "B");
