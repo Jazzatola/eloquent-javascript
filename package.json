@@ -1,0 +1,11 @@
+{
+  "name": "eloquent-javascript",
+  "version": "0.0.1",
+  "description": "Solutions to exercises from the book Eloquent Javascript.",
+  "author": "James Maggs",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/**/*.test.js"
+  }
+}
