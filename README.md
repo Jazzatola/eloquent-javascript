@@ -9,3 +9,9 @@ Run the tests with `npm test` to verify the solutions.
 - [Exercise 1](src/chapter2/exercise1.js)
 - [Exercise 2](src/chapter2/exercise2.js)
 - [Exercise 3](src/chapter2/exercise3.js)
+
+## Chapter 3
+
+- [Exercise 1](src/chapter3/exercise1.js)
+- [Exercise 2](src/chapter3/exercise2.js)
+- [Exercise 3](src/chapter3/exercise3.js)
