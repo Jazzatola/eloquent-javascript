@@ -1,3 +1,5 @@
+// Reversing an Array
+//
 // For this exercise, write two functions, reverseArray and
 // reverseArrayInPlace. The first, reverseArray, should take an array as its
 // argument and produce a new array that has the same elements in the inverse

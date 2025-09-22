@@ -1,3 +1,5 @@
+// Bean Counting
+//
 // You can get the N th character, or letter, from a string by writing [N]
 // after the string (for example, string[2]). The resulting value will be a
 // string containing only one character (for example, "b"). The first character
