@@ -4,15 +4,15 @@ import assert from "node:assert/strict";
 import { isEven } from "../../src/chapter3/exercise2.js";
 
 describe("Chapter 3, Exercise 2", () => {
-  it("50 is even", async () => {
+  it("50 is even", () => {
     assert.ok(isEven(50));
   });
 
-  it("75 is not even", async () => {
+  it("75 is not even", () => {
     assert.ok(!isEven(75));
   });
 
-  it("-1 is not even", async () => {
+  it("-1 is not even", () => {
     assert.ok(!isEven(-1));
   });
 });
