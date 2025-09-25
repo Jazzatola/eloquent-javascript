@@ -22,3 +22,10 @@ Run the tests with `npm test` to verify the solutions.
 - [Exercise 2](src/chapter4/exercise2.js): Reversing an Array
 - [Exercise 3](src/chapter4/exercise3.js): A List
 - [Exercise 4](src/chapter4/exercise4.js): Deep Comparison
+
+## Chapter 5
+
+- [Exercise 1](src/chapter5/exercise1.js): Flattening
+- [Exercise 2](src/chapter5/exercise2.js): Your Own Loop
+- [Exercise 3](src/chapter5/exercise3.js): Everything
+- [Exercise 4](src/chapter5/exercise4.js): Dominant Writing Direction
