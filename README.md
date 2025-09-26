@@ -29,3 +29,9 @@ Run the tests with `npm test` to verify the solutions.
 - [Exercise 2](src/chapter5/exercise2.js): Your Own Loop
 - [Exercise 3](src/chapter5/exercise3.js): Everything
 - [Exercise 4](src/chapter5/exercise4.js): Dominant Writing Direction
+
+## Chapter 6
+
+- [Exercise 1](src/chapter6/exercise1.js): A Vector Type
+- [Exercise 2](src/chapter6/exercise2.js): Groups
+- [Exercise 3](src/chapter6/exercise3.js): Iterable Groups
