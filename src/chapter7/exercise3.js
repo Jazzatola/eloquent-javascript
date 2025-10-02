@@ -37,10 +37,6 @@ export class PGroup {
     else return this;
   }
 
-  at(index) {
-    return this.#elements[index];
-  }
-
   has(element) {
     return this.#elements.indexOf(element) >= 0;
   }
