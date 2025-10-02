@@ -35,3 +35,9 @@ Run the tests with `npm test` to verify the solutions.
 - [Exercise 1](src/chapter6/exercise1.js): A Vector Type
 - [Exercise 2](src/chapter6/exercise2.js): Groups
 - [Exercise 3](src/chapter6/exercise3.js): Iterable Groups
+
+## Chapter 7
+
+- [Exercise 1](src/chapter7/exercise1.js): Measuring a Robot
+- [Exercise 2](src/chapter7/exercise2.js): Robot Efficiency
+- [Exercise 3](src/chapter7/exercise3.js): Persistent Group
