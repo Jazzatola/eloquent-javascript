@@ -1,6 +1,6 @@
 # Eloquent Javascript
 
-Solutions to exercises from the book [Eloquent Javascript](https://eloquentjavascript.net), 4th Edition.
+My solutions to exercises from the book [Eloquent Javascript](https://eloquentjavascript.net), 4th Edition.
 
 Run the tests with `npm test` to verify the solutions.
 
@@ -41,3 +41,8 @@ Run the tests with `npm test` to verify the solutions.
 - [Exercise 1](src/chapter7/exercise1.js): Measuring a Robot
 - [Exercise 2](src/chapter7/exercise2.js): Robot Efficiency
 - [Exercise 3](src/chapter7/exercise3.js): Persistent Group
+
+## Chapter 8
+
+- [Exercise 1](src/chapter8/exercise1.js): Retry
+- [Exercise 2](src/chapter8/exercise2.js): Locked Box
