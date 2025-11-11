@@ -46,3 +46,9 @@ Run the tests with `npm test` to verify the solutions.
 
 - [Exercise 1](src/chapter8/exercise1.js): Retry
 - [Exercise 2](src/chapter8/exercise2.js): Locked Box
+
+## Chapter 9
+
+- [Exercise 1](src/chapter9/exercise1.js): Regexp Golf
+- [Exercise 2](src/chapter9/exercise2.js): Quoting Style
+- [Exercise 3](src/chapter9/exercise3.js): Numbers Again
